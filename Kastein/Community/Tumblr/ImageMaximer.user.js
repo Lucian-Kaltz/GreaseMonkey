@@ -5,8 +5,8 @@
 // @description 축소된 이미지 자동으로 원본 이미지로 대체
 // @author       povslusian@gmail.com
 // @match        https://www.tumblr.com/dashboard*
-// @updateURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/Tumblr/ImageMaximer.user.js
-// @downloadURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/Tumblr/ImageMaximer.user.js
+// @updateURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Kastein/Community/Tumblr/ImageMaximer.user.js
+// @downloadURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Kastein/Community/Tumblr/ImageMaximer.user.js
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
