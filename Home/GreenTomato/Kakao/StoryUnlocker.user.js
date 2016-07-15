@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         카카오스토리 이미지 다운로더
 // @namespace    org.metalscraps.home.greentomato.kakao.storyunlocker
-// @version      0.2
+// @version      1.0
 // @encoding utf-8
 // @description  카카오스토리 이미지 다운로더
 // @author       povslusian@gmail.com
 // @match        https://story.kakao.com/*/photos
-// @updateURL /
-// @downloadURL /
+// @updateURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Home/GreenTomato/Kakao/StoryUnlocker.user.js
+// @downloadURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Home/GreenTomato/Kakao/StoryUnlocker.user.js
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
