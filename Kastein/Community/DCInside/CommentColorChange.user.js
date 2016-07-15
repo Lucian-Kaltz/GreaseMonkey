@@ -8,8 +8,8 @@
 // @match        http://gall.dcinside.com/board/view/*
 // @match        http://gall.dcinside.com/board/lists/*
 // @match        http://gall.dcinside.com/board/comment_view/*
-// @updateURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/DCInside/CommentColorChange.user.js
-// @downloadURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/DCInside/CommentColorChange.user.js
+// @updateURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Kastein/Community/DCInside/CommentColorChange.user.js
+// @downloadURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Kastein/Community/DCInside/CommentColorChange.user.js
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
