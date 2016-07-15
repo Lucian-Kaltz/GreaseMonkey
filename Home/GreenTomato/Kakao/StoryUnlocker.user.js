@@ -6,8 +6,8 @@
 // @description  카카오스토리 이미지 다운로더
 // @author       povslusian@gmail.com
 // @match        https://story.kakao.com/*/photos
-// @updateURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Home/GreenTomato/Kakao/StoryUnlocker.user.js
-// @downloadURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Home/GreenTomato/Kakao/StoryUnlocker.user.js
+// @updateURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Home/GreenTomato/Kakao/StoryUnlocker.user.js
+// @downloadURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Home/GreenTomato/Kakao/StoryUnlocker.user.js
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
