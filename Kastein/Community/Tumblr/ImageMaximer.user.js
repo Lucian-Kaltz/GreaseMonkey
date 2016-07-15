@@ -6,7 +6,7 @@
 // @author       povslusian@gmail.com
 // @match        https://www.tumblr.com/dashboard*
 // @updateURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/Tumblr/ImageMaximer.user.js
-// @downloadURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Tumblr/ImageMaximer.user.js
+// @downloadURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/Tumblr/ImageMaximer.user.js
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
