@@ -1,15 +1,13 @@
 // ==UserScript==
 // @name         DC 댓글 색 변경
 // @namespace    org.metalscraps.kastein.community.dcinside.commentcolorchange
-// @version      1.0
+// @version      1.1
 // @encoding utf-8
 // @description  눈에띄게 색깔 변경
 // @author       povslusian@gmail.com
-// @match        http://gall.dcinside.com/board/view/*
-// @match        http://gall.dcinside.com/board/lists/*
-// @match        http://gall.dcinside.com/board/comment_view/*
-// @updateURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Kastein/Community/DCInside/CommentColorChange.user.js
-// @downloadURL https://raw.githubusercontent.com/Lucian-Kaltz/GreaseMonkey/master/Kastein/Community/DCInside/CommentColorChange.user.js
+// @match        /^http:\/\/gall.dcinside.com\/board\/(view|lists|comment_view)\/*$/
+// @updateURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/DCInside/CommentColorChange.user.js
+// @downloadURL https://github.com/Lucian-Kaltz/GreaseMonkey/raw/master/Kastein/Community/DCInside/CommentColorChange.user.js
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
